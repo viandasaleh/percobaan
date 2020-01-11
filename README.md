@@ -1,5 +1,14 @@
 # percobaan
 apa yang anda pikirkan ?
 
-## projek perbaikan
-ini percbaan perbaikan
+- ## Nama		 :Vianda saleh
+- ## NPM		 :17119087	
+- ## Description :belajar bangsat
+	##web developer
+	-PHP NATIVE
+	-LARAVEL
+
+
+## SARAN	:
+>	### belajar aje
+
